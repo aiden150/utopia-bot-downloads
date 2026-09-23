@@ -12,6 +12,6 @@ Run `python3 -m http.server 4188` and open http://localhost:4188.
 
 Static website on Vercel, no build step.
 
-## v0.1.38
+## v0.1.39
 
 Mac: Apple Silicon; notarization pending. Windows: x64; packaged and inspected, not tested on a Windows device.
